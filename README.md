@@ -29,4 +29,4 @@ predict house prices.
 - `California_Houses.csv` — Dataset
 - `california.png` — Geographic visualization
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/castille-vllt/48c4ffb18cf55807f755d2bc0b37bbb6/individual_homework_castille_vuillet_petite-2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/castille-vllt/b86bcebc5ffd6b985460515e97a9c02b/individual_homework_castille_vuillet_petite-2.ipynb)
